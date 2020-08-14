@@ -1,0 +1,17 @@
+
+<svg width="1356px" height="1396px" viewBox="0 0 1356 1396" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Path 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="75.2256713%" y1="0%" x2="12.8250505%" y2="62.172774%" id="linearGradient-1">
+            <stop stop-color="#189047" offset="0%"></stop>
+            <stop stop-color="#189047" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="#189047" fill-rule="evenodd" opacity="0.199999988">
+        <g id="P1005---Illu-Gallery" transform="translate(-42.000000, -808.000000)" fill="url(#linearGradient-1)">
+            <path d="M321.833868,1000.39119 C480.382658,875.515974 657.371035,813.115614 852.799,813.190105 C1145.94095,813.301843 1414.55443,735.104449 1397.20291,1181.92793 C1379.85139,1628.7514 862.197739,1197.67987 847.73814,1575.09387 C833.278541,1952.50788 468.568209,1579.71851 396.598642,2121.41923 C368.116823,2335.79626 42,2136.37577 42,1481.13701 C42,1306.40668 135.277956,1146.15807 321.833868,1000.39119 Z" id="Path-11" transform="translate(720.000000, 1506.000000) scale(1, -1) translate(-720.000000, -1506.000000) "></path>
+        </g>
+    </g>
+</svg>
