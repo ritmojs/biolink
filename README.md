@@ -42,13 +42,15 @@
 * Step-6: Click on the Signin Link in the alert above.
 * Step-7: Now Signin .
 * Step-8: Now you are on your Dashboard ,here you can add Links and see the status of your previous added links.
-* Step-9: Now after adding Links visit  https://biolink-ritmojs.herokuapp.com/```<yourbiolinkID>```.
+* Step-9: Now after adding Links visit  https://biolink-ritmojs.herokuapp.com/```bash
+ yourbiolinkID 
+```.
 
 
 
 # ThankYou 
 <p align="center">
-<img src="./images/logo.png" width="400" height ="180">
+<img src="./images/logo.png" width="400" height ="150">
 </p>
 
 <h1 align="center">
