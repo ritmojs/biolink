@@ -48,7 +48,7 @@
 
 # ThankYou 
 <p align="center">
-<img src="./images/logo.png" width="400" height ="200">
+<img src="./images/logo.png" width="400" height ="180">
 </p>
 
 <h1 align="center">
