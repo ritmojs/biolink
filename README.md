@@ -42,9 +42,10 @@
 * Step-6: Click on the Signin Link in the alert above.
 * Step-7: Now Signin .
 * Step-8: Now you are on your Dashboard ,here you can add Links and see the status of your previous added links.
-* Step-9: Now after adding Links visit  https://biolink-ritmojs.herokuapp.com/```bash
+* Step-9: Now after adding Links visit  https://biolink-ritmojs.herokuapp.com/
+```bash
  yourbiolinkID 
-```.
+```
 
 
 
